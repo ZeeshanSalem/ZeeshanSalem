@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Mazdoor and AntonX.
+- 🔭 I’m currently working at Mazdoor and Encoder Bytes.
 - 🌱 I’m currently learning Flutter Architectures and animation as well server side development.
 
 - 💬 Ask me about Flutter, blockchain and server side development.

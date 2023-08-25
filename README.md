@@ -1,5 +1,5 @@
 ### Hi, There👋
-I am a Flutter and blockchain developer. I am the CEO of Mazdoor, a plateform where you can hire your handyman online.
+Flutter and blockchain developer.
 <!--
 **ZeeshanSalem/ZeeshanSalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Mazdoor and Encoder Bytes.
+- 🔭 I’m currently working at Magic Box Technlogy DMCC.
 - 🌱 I’m currently learning Flutter Architectures and animation as well server side development.
 
 - 💬 Ask me about Flutter, blockchain and server side development.

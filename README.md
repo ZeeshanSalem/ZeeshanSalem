@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Magic Box Technlogy DMCC.
-- 🌱 I’m currently learning Flutter Architectures and animation as well server side development.
+- 🔭 I’m currently working at Tradeling.
+- 🌱 I’m currently learning Node js.
 
 - 💬 Ask me about Flutter, blockchain and server side development.
 - 📫 How to reach me: zeeshansaleem729@gmail.com

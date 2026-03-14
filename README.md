@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at Tradeling.
+- 🔭 I’m currently working at Pay10 Global.
 - 🌱 I’m currently learning Node js.
 
 - 💬 Ask me about Flutter, blockchain and server side development.
